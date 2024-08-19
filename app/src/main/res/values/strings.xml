@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="Name">Rohit Jagdale</string>
+    <string name="work">Android Developer</string>
+    <string name="phone_no">7738517628</string>
+    <string name="email">rohitjagdale012@gmail.com</string>
+    <string name="website_link">xyz.com</string>
+</resources>
